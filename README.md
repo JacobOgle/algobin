@@ -4,6 +4,7 @@
 
 A home for leetcode, codewars, hacker rank, etc solutions.
 
+Also the home of any general dsa code notes / implementations
 ---
 
-Solutions will mostly be in Python (some may be C++).
+Solutions will mostly be in Python but some may be C, C++, Go, Rust or <insert language here>.
